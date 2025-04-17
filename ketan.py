@@ -4,7 +4,7 @@
 # from tqdm.auto import tqdm
 #
 # # Your Hugging Face token
-# HF_TOKEN = "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"
+# HF_TOKEN = "Huggingface_api_key"
 #
 # # Llama-2-7b-chat-hf model repo
 # MODEL_REPO = "meta-llama/Llama-2-7b-chat-hf"
